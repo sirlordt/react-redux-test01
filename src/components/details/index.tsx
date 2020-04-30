@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import View from './View';
+import View from './view';
 
-export default class Results extends Component {
+export default class Details extends Component {
   
   render() {
   
